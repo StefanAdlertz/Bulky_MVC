@@ -20,12 +20,5 @@ namespace BulkyWeb.Data
                 new Category { Id = 3, Name = "History", DisplayOrder = 3 }
                 );
         }
-
-
-
-
-
-
-
     }
 }
